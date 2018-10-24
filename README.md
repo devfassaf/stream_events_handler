@@ -15,6 +15,8 @@ http://127.0.0.1:8080/event_type/:type  - will return the number of events by ev
 
 http://127.0.0.1:8080/data/:data  - will return the number of words encountered in the data field of the events.
 
+http://127.0.0.1:8080/ping  - will return a pong message.
+
 
 Assaf Faybish
 
