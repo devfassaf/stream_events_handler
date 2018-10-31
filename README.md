@@ -22,6 +22,6 @@ Assaf Faybish
 
 linkedin: https://www.linkedin.com/in/assaffaybish/
 
-deffassaf@gmail.com
+devfassaf@gmail.com
 
 fassaf.f@gmail.com
